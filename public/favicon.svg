@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#050B18" />
+  <path
+    d="M32 8L35.6 12.2L41 10.7L42.3 16.1L47.8 17.2L46.5 22.6L51.1 26L47.5 30.2L50.1 35.2L45 37.5L45.1 43.1L39.6 43L37.4 48.1L32.3 45.6L28.1 49.2L24.7 44.6L19.3 45.9L18.2 40.4L12.8 39.1L14.3 33.7L10.1 30.1L13.7 25.9L11.2 20.9L16.3 18.6L16.2 13L21.7 13.1L23.9 8L29 10.5L32 8Z"
+    stroke="#2563EB"
+    stroke-width="2.4"
+    fill="#0B162C"
+  />
+  <circle cx="31" cy="29" r="14" stroke="#38BDF8" stroke-width="1.6" stroke-dasharray="3 3" />
+  <path
+    d="M22 36V22H26.2L31 30.2L35.8 22H40V36H36.4V27.6L31.9 35.1H30.1L25.6 27.6V36H22Z"
+    fill="#F8FAFC"
+  />
+</svg>
